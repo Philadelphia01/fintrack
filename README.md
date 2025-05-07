@@ -1,7 +1,7 @@
 # Budget Tracker App (Kotlin +  SQLite database )
 
 ## 📱 Overview
-The **Budget Tracker App** is a fully offline Android application built with Kotlin and RoomDB to help users track their expenses efficiently. Users can log in, create categories, add expenses (with optional photos), and set monthly spending goals. The app provides detailed reports on expenses per category over user-selectable periods and uses the South African Rand (R) as the currency.
+The **Budget Tracker App** is a fully offline Android application built with Kotlin and  SQLite to help users track their expenses efficiently. Users can log in, create categories, add expenses (with optional photos), and set monthly spending goals. The app provides detailed reports on expenses per category over user-selectable periods and uses the South African Rand (R) as the currency.
 
 ---
 
